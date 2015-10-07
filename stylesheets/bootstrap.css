@@ -4259,6 +4259,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-bottom .navbar-collapse {
     padding-right: 0;
     padding-left: 0;
+    
   }
 }
 .navbar-fixed-top .navbar-collapse,
@@ -4483,7 +4484,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-form {
     width: auto;
-    padding-top: 0;
+    padding-top: 70px;
     padding-bottom: 0;
     margin-right: 0;
     margin-left: 0;
